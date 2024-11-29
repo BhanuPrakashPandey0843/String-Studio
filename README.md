@@ -1,4 +1,6 @@
 String Studio
+
+
 A Powerful Text Manipulation Tool Built with React and Bootstrap
 Overview String Studio is a comprehensive text manipulation application that empowers users to perform a variety of operations on their text data. With a user-friendly interface and robust features, this application is designed to simplify text processing tasks.
 
