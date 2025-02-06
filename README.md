@@ -66,32 +66,6 @@ Welcome to **String Studio**! A powerful text manipulation tool built with **Rea
 
 ---
 
+## 📖 Thank You
 
 
----
-
-## 🎨 Design & Animations
-
-To make your README visually appealing, consider the following:
-
-- **Use Icons**: Incorporate icons next to features for a modern look. You can use libraries like Font Awesome or Material Icons.
-  
-- **Animated GIFs**: Include GIFs demonstrating the features in action. This can help users understand how to use the application effectively.
-  
-- **Colorful Headers**: Use different colors for headers to make sections stand out. You can use HTML tags within Markdown for more styling options.
-  
-- **Backgrounds**: If hosting on a web platform, consider using a gradient or image background for the README.
-
----
-
-## 💬 Feedback & Contributions
-
-We welcome contributions! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
-
----
-
-Thank you for using **String Studio**! Happy text manipulating! 🎉
-
----
-
-This layout provides a structured and visually appealing README that can be enhanced with actual animations and styles when implemented on a web platform.
