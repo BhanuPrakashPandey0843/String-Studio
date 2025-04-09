@@ -34,7 +34,7 @@ Welcome to **String Studio**! A powerful text manipulation tool built with **Rea
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/String-Studio.git
+   git clone https://github.com/BhanuPrakashPandey0843/String-Studio.git
    ```
 
 2. **Navigate to the project directory**:
